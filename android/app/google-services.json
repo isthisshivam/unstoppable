@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "127630960676",
+    "project_id": "unstoppable-bda30",
+    "storage_bucket": "unstoppable-bda30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127630960676:android:48fb1dc1c5bc8feac250b1",
+        "android_client_info": {
+          "package_name": "com.unstoppableathelete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127630960676-fh43jjqd470ngdgh4lia9u71bu59vnol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjaCQPCmrcpF_JM9da2ePpamnOkpGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127630960676-fh43jjqd470ngdgh4lia9u71bu59vnol.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127630960676-tsub2rof13t72eldjs7ddatg5lj5kegv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unstoppable.com.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
